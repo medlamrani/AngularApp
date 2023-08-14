@@ -61,3 +61,11 @@ D:\App\MyApp\API\obj\Debug\net7.0\refint\API.dll
 D:\App\MyApp\API\obj\Debug\net7.0\API.pdb
 D:\App\MyApp\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 D:\App\MyApp\API\obj\Debug\net7.0\ref\API.dll
+D:\App\MyApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\App\MyApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\App\MyApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\App\MyApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\App\MyApp\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\App\MyApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\App\MyApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\App\MyApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

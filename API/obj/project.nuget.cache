@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "5ALiWEEQL4gwmZXqMiZlbzaK2CrD0XQlHYUASl81SdJ3PfvvN65gZenIuXkTmhGwMVmkIXFXttOZymFkTBNKZw==",
+  "dgSpecHash": "9C+kG0ES9je4snFzfB1XERmiIzajiymnlvWdzETSUP3oraSa3yrGPWNSaWIhzWVablToM8TI9SZ6auEnmBIerw==",
   "success": true,
   "projectFilePath": "D:\\App\\MyApp\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\medla\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\medla\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\medla\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\medla\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.10\\microsoft.aspnetcore.authentication.jwtbearer.7.0.10.nupkg.sha512",
-    "C:\\Users\\medla\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\medla\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\medla\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.9\\microsoft.data.sqlite.core.7.0.9.nupkg.sha512",
     "C:\\Users\\medla\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "C:\\Users\\medla\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
